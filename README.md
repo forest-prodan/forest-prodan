@@ -25,5 +25,5 @@ Tech Arsenal
 
 Let's Connect!
 📈 LinkedIn: https://www.linkedin.com/in/forest-prodan-728957248/
-
+📊 Tableau Public: https://public.tableau.com/app/profile/forest.prodan/vizzes
 Embark on this magical journey with me as we blend the artistry of visualization with the realms of fantasy and gaming. May your datasets be rich, your visualizations be captivating, and your quests be ever epic! 🚀🔮✨
