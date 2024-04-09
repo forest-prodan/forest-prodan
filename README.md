@@ -5,7 +5,7 @@ Welcome to the realms of data, visualizations, and a sprinkle of fantasy magic! 
 About Me
 📊 Data Alchemist: Transforming raw data into gold, I specialize in extracting meaningful insights and weaving them into captivating narratives.
 
-🎨 Artisan of Visualization: With tools like Python, Tableau, and D3.js, I sculpt data into visual masterpieces, making every graph and chart tell a compelling story.
+🎨 Artisan of Visualization: With tools like Python and Tableau, I sculpt data into visual masterpieces, making every graph and chart tell a compelling story.
 
 🌟 Fantasy Aficionado: From Tolkien's Middle-earth to exploring unknown galaxies, I find solace in the pages of fantasy books and the immersive realms of RPGs.
 
@@ -20,8 +20,8 @@ Current Quests
 
 Tech Arsenal
 💻 Languages: Python, SQL
-📊 Visualization Tools: Matplotlib, Tableau, D3.js
-🎨 Artistic Arsenal: Procreate
+📊 Visualization Tools: Matplotlib, Tableau
+🎨 Artistic Arsenal: Procreate, Sculpting, Knitting, Weaving, Jewelry-Making
 
 Let's Connect!
 📈 LinkedIn: https://www.linkedin.com/in/forest-prodan-728957248/
